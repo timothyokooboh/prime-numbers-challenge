@@ -4,6 +4,10 @@
 ```
 npm install -g @vue/cli
 ```
+## Clone the repo
+```
+git@github.com:timothyokooboh/prime-numbers-challenge.git
+```
 ## Project setup
 ```
 npm install
