@@ -1,5 +1,9 @@
 # prime_numbers_table
 
+## Install Vue CLI on your machine (if it is not already installed)
+```
+npm install -g @vue/cli
+```
 ## Project setup
 ```
 npm install
