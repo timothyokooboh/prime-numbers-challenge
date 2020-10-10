@@ -29,8 +29,8 @@
   body {
     overflow-Y: scroll;
     -ms-overflow-style: none
-
   }
+  
   body::-webkit-scrollbar {
     display: none;
   }
